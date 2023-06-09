@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <Properties>
- <Property name="Objektidentifikation" id="2000" index="0" type="7">127/14/1/0</Property>
+ <Property name="Objektidentifikation" id="2000" index="0" type="7">105/14/1/0</Property>
  <Property name="Letzter Bearbeiter: Kennung" id="3010" index="0" type="7"/>
  <Property name="Letzter Bearbeiter: Name" id="3011" index="0" type="7">Pierre Jentzsch</Property>
  <Property name="Letzter Bearbeiter: Telefon" id="3012" index="0" type="7"/>
@@ -26,7 +26,7 @@
  <Property name="Letzter Bearbeiter: Anmeldename" id="10022" index="0" type="7">Pierre Jentzsch</Property>
  <Property name="Änderungsdatum" id="10023" index="0" type="14">1685115773</Property>
  <Property name="Letzte Fremdsprachenübersetzung: Datum" id="10024" index="0" type="14">1583403337</Property>
- <Property name="Tagesdatum" id="10027" index="0" type="14">1685635865</Property>
+ <Property name="Tagesdatum" id="10027" index="0" type="14">1686327604</Property>
  <Property name="Projektanfang" id="10028" index="0" type="14">1685114573</Property>
  <Property name="Übergeordnete Strukturformate" id="10029" index="0" type="7">4&#9;0&#9;0&#9;0&#9;0</Property>
  <Property name="Sonderumwelt" id="10034" index="0" type="15">de_DE@keine;en_US@None;nl_NL@geen;fr_FR@aucune;es_ES@ninguno;sv_SE@ingen;da_DK@ingen;zh_CN@无;ru_RU@нет;pl_PL@brak;pt_BR@nenhum;cs_CZ@žádné;it_IT@nessuna;hu_HU@Egy se;pt_PT@nenhum;ko_KR@없음;ja_JP@なし;tr_TR@yok;ro_RO@niciunul/niciuna;</Property>
@@ -43,7 +43,7 @@
  <Property name="Strukturformat für allgemeine Betriebsmittel" id="10055" index="0" type="7">&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Strukturformat für Gerätekästen" id="10056" index="0" type="7">&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Strukturformat für SPS- / Bus-Technik" id="10057" index="0" type="7">&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
- <Property name="Tageszeit" id="10058" index="0" type="14">1685635865</Property>
+ <Property name="Tageszeit" id="10058" index="0" type="14">1686327604</Property>
  <Property name="Strukturformat für Klemmenleisten" id="10059" index="0" type="7">&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Strukturformat für Stecker" id="10060" index="0" type="7">&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
  <Property name="Strukturformat für Kabel" id="10061" index="0" type="7">&lt;20012&gt;&lt;20013&gt;&lt;20014&gt;&lt;20015&gt;&lt;20016&gt;&lt;20017&gt;&lt;20018&gt;&lt;20019&gt;</Property>
